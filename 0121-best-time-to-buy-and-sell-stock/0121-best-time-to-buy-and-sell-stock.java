@@ -10,9 +10,7 @@ class Solution {
             }
             profit = prices[i] - buy ;
 
-            if( maxprofit < profit){
-                maxprofit = profit;
-            }
+            maxprofit = Math.max(maxprofit,profit);
         }
 
         return maxprofit;
