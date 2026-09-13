@@ -19,12 +19,14 @@
 | [0136-single-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -111,4 +113,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
