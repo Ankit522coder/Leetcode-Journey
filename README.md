@@ -23,6 +23,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0054-spiral-matrix) |
+## Segment Tree
+|  |
+| ------- |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
+## Sliding Window
+|  |
+| ------- |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 <!---LeetCode Topics End-->
