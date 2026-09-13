@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -67,10 +68,12 @@
 | [0031-next-permutation](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -114,4 +118,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
