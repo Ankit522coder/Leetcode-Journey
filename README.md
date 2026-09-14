@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -149,6 +151,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Stack
