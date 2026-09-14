@@ -21,6 +21,7 @@
 | [0136-single-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +148,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Stack
 |  |
@@ -156,4 +158,20 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
