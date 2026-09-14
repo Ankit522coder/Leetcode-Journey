@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@
 | [0015-3sum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
