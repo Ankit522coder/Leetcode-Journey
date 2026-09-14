@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -42,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 ## String
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Sliding Window
 |  |
@@ -181,4 +185,20 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
