@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0136-single-number) |
@@ -154,10 +155,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 ## Queue
 |  |
 | ------- |
@@ -173,5 +176,6 @@
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Ankit522coder/Leetcode-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
